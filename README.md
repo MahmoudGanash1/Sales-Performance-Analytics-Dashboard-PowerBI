@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard (Power BI)
+# 📊 Sales Performance Analytics Dashboard
 
 **Overview**  
 Interactive Power BI dashboard to analyze sales performance, profit trends, and customer segmentation. Designed to help stakeholders quickly identify top-performing regions, products, and periods, and make data-driven decisions.
