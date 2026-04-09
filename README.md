@@ -60,4 +60,4 @@ This dashboard provides a comprehensive analysis of sales performance across reg
 
 📫 Contact  
 - Email: Mahmoud2491@hotmail.com  
-- Location: Tanta, Egypt (Open to relocation)  
+- linkedin: www.linkedin.com/in/mahmoud-ganash-4b0a3369 
