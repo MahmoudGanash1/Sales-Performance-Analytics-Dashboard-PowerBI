@@ -1,35 +1,63 @@
 # 📊 Sales Performance Analytics Dashboard
 
-**Overview**  
-Interactive Power BI dashboard to analyze sales performance, profit trends, and customer segmentation. Designed to help stakeholders quickly identify top-performing regions, products, and periods, and make data-driven decisions.
+📌 An interactive Power BI dashboard designed to analyze sales performance, profit trends, customer segments, and regional insights to support data-driven business decisions.
 
-**Tools Used**  
-🛠 Power BI • DAX • Excel (Data Prep) • Data Visualization  
+---
 
-**Key Features**  
-📈 Sales & Profit Tracking: Monitor overall revenue and profit trends across months and quarters  
-🌍 Regional Performance: Compare profit by region, highlight top-performing areas  
-👤 Customer Segmentation: Identify top customer segments (Corporate, Home Office, Consumer)  
-📊 Ship Mode Analysis: Track performance across Regular, Delivery, and Express shipping  
-📅 Daily & Monthly Trends: Analyze daily fluctuations and monthly patterns  
-🏆 Top Products: Highlight best-selling products and most profitable sub-categories  
+📌 Project Overview  
+This dashboard provides a comprehensive analysis of sales performance across regions, time periods, customer segments, and shipping modes. It helps identify key drivers of revenue and profit, monitor trends, and support strategic decision-making.
 
-**Dashboard Insights**  
-💰 Top Region: Ontario with $0.35M profit  
-🗓 Top Month: January with $1.4M sales  
-🏅 Top Product: Appliances ($14.92M)  
-🏅 Top Sub-Category Profit: Furniture ($1.52M)  
-👥 Largest Customer Segment: Corporate (36.87%)  
-🚚 Ship Mode Distribution: Regular (50.3%), Delivery (41.73%), Express (7.94%)  
+---
 
-**Business Impact**  
-This dashboard enables stakeholders to:  
-- Identify high-performing regions and products  
-- Optimize sales and marketing strategies  
-- Monitor customer behavior and segment profitability  
-- Quickly detect trends and outliers for timely decision-making  
+🛠 Tools & Technologies  
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Data Modeling  
+- Data Visualization  
 
-**Dashboard Preview**  
+---
 
-![1719778234337](https://github.com/user-attachments/assets/fc78b16f-29d0-4a96-ad7f-76f64802ed55)
+📈 Key Metrics  
+- 💰 Total Sales Performance: 1.4M+ peak monthly revenue  
+- 📊 Total Profit Tracking: Monitored across all regions and categories  
+- 🧾 Customer Segments: Corporate, Consumer, Home Office, Small Business  
+- 🌍 Regional Analysis: Ontario, West, Quebec, Atlantic and more  
+- 🚚 Shipping Modes: Regular, Delivery, Express  
+- 📅 Time Analysis: Daily & Monthly sales trends  
 
+---
+
+📊 Key Insights  
+- 🥇 Ontario region recorded the highest sales performance (~0.35M+)  
+- 📈 Sales peak observed in January and September across the year  
+- 🏢 Corporate segment contributes the largest share (~36%+)  
+- 🚚 Regular shipping is the most used method (~50%+)  
+- 📉 Clear fluctuations in daily sales with peak performance around mid-month  
+
+---
+
+📷 Dashboard Preview  
+
+![Sales Performance Analytics Dashboard](https://github.com/user-attachments/assets/46a9feb1-6dde-4bb7-bdee-a7504efd3a1e)
+---
+
+🎯 Business Impact  
+
+- Improved visibility of sales performance across regions and time  
+- Helped identify top-performing products and customer segments  
+- Supported data-driven decision-making for sales strategy  
+- Enhanced understanding of revenue and profit distribution  
+
+---
+
+📌 Key Highlights  
+- Real-time interactive filters (Year, Quarter, Ship Mode)  
+- Dynamic KPI tracking  
+- Multi-dimensional analysis (Region, Time, Segment)  
+- Clean and structured visual storytelling  
+
+---
+
+📫 Contact  
+- Email: Mahmoud2491@hotmail.com  
+- Location: Tanta, Egypt (Open to relocation)  
