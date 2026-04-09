@@ -1,15 +1,35 @@
 # 📊 Sales Performance Analytics Dashboard
 
-📌 An interactive Power BI dashboard designed to analyze sales performance, profit trends, customer segments, and regional insights to support data-driven business decisions.
+An interactive Power BI dashboard designed to analyze **1.4M+ sales revenue**, uncover profit drivers, and deliver actionable insights across regions, customer segments, and shipping modes.
+
+The dashboard transforms raw data into a **decision-support system** for strategic business optimization.
 
 ---
 
-📌 Project Overview  
-This dashboard provides a comprehensive analysis of sales performance across regions, time periods, customer segments, and shipping modes. It helps identify key drivers of revenue and profit, monitor trends, and support strategic decision-making.
+## 🎯 BUSINESS PROBLEM
+
+The business needed better visibility into:
+- Sales performance across regions and time
+- Profitability by category and segment
+- Customer contribution to revenue
+- Shipping mode impact on sales efficiency
+
+This lack of visibility limited data-driven decision-making.
 
 ---
 
-🛠 Tools & Technologies  
+## 💡 SOLUTION
+
+Developed an interactive Power BI dashboard that:
+- Consolidates sales performance into a unified model
+- Enables multi-dimensional analysis (Region, Segment, Category, Time)
+- Provides real-time filtering and exploration
+- Highlights key revenue and profit drivers
+
+---
+
+## 🛠 TOOLS & TECHNOLOGIES
+
 - Power BI  
 - DAX (Data Analysis Expressions)  
 - Data Modeling  
@@ -17,47 +37,55 @@ This dashboard provides a comprehensive analysis of sales performance across reg
 
 ---
 
-📈 Key Metrics  
-- 💰 Total Sales Performance: 1.4M+ peak monthly revenue  
-- 📊 Total Profit Tracking: Monitored across all regions and categories  
+## 📊 KEY METRICS
+
+- 💰 Total Sales: 1.4M+ peak monthly revenue  
+- 📊 Profit Tracking across all regions & categories  
 - 🧾 Customer Segments: Corporate, Consumer, Home Office, Small Business  
-- 🌍 Regional Analysis: Ontario, West, Quebec, Atlantic and more  
+- 🌍 Regions: Ontario, West, Quebec, Atlantic, and more  
 - 🚚 Shipping Modes: Regular, Delivery, Express  
-- 📅 Time Analysis: Daily & Monthly sales trends  
+- 📅 Time Analysis: Daily & Monthly trend tracking  
 
 ---
 
-📊 Key Insights  
-- 🥇 Ontario region recorded the highest sales performance (~0.35M+)  
-- 📈 Sales peak observed in January and September across the year  
-- 🏢 Corporate segment contributes the largest share (~36%+)  
-- 🚚 Regular shipping is the most used method (~50%+)  
-- 📉 Clear fluctuations in daily sales with peak performance around mid-month  
+## 🔍 KEY INSIGHTS
+
+- Ontario is the highest-performing region (~0.35M+ sales)  
+- Sales peak consistently in January and September  
+- Corporate segment contributes the largest share (~36%+)  
+- Regular shipping dominates usage (~50%+)  
+- Sales show strong mid-month performance spikes  
 
 ---
 
-📷 Dashboard Preview  
+## 📈 BUSINESS IMPACT
 
-![Sales Performance Analytics Dashboard](https://github.com/user-attachments/assets/46a9feb1-6dde-4bb7-bdee-a7504efd3a1e)
----
-
-🎯 Business Impact  
-
-- Improved visibility of sales performance across regions and time  
-- Helped identify top-performing products and customer segments  
-- Supported data-driven decision-making for sales strategy  
-- Enhanced understanding of revenue and profit distribution  
+- Improved visibility across all sales dimensions  
+- Enabled identification of top revenue-driving regions and customers  
+- Supported data-driven sales strategy optimization  
+- Enhanced understanding of profitability distribution  
+- Improved decision-making speed and accuracy  
 
 ---
 
-📌 Key Highlights  
-- Real-time interactive filters (Year, Quarter, Ship Mode)  
+## ⚡ KEY HIGHLIGHTS
+
+- Interactive filters (Year, Quarter, Ship Mode)  
 - Dynamic KPI tracking  
-- Multi-dimensional analysis (Region, Time, Segment)  
-- Clean and structured visual storytelling  
+- Multi-dimensional drill-down analysis  
+- Clean and structured data storytelling  
+- Executive-ready dashboard for stakeholders  
 
 ---
 
-📫 Contact  
-- Email: Mahmoud2491@hotmail.com  
-- linkedin: www.linkedin.com/in/mahmoud-ganash-4b0a3369 
+## 📷 DASHBOARD PREVIEW
+
+![Sales Performance Analytics Dashboard](https://github.com/user-attachments/assets/67fa35e6-956b-4f69-98b3-62eaa34402f2)
+
+---
+
+
+## 📬 CONTACT
+
+Email: Mahmoud2491@hotmail.com  
+LinkedIn: www.linkedin.com/in/mahmoud-ganash-4b0a3369  
